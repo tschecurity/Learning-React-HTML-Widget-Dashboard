@@ -1,0 +1,1 @@
+Dashboard widget using pre-built scrips to combine with what I have learned in a Machine Learning class - Logistc Regression. Using a React dashboard is quick way to display data with ease of changing look and feel.
