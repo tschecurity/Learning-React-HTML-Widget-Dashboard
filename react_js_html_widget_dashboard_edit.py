@@ -129,7 +129,7 @@ html = f"""
 
 display(HTML(html))
 
-"""Not the above React HTML Widget dashboard did not display, troubleshooting with AI, suggested to: use Base64 data URI"""
+"""Note the above React HTML Widget dashboard did not display, troubleshooting with AI, suggested to: use Base64 data URI"""
 
 from IPython.display import HTML
 import base64
